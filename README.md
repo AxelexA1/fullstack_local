@@ -2,7 +2,8 @@
 
 A single page web-application used to save and search contact information, built with React, Node.js, Express, Gsap, and CSS.
 
-The static_version branch contains the deployed version of the app, in which the Express server displays the build/index.html of the frontend application. 
+The static_version branch contains the deployed version of the app, in which the Express server displays the build/index.html of the frontend application.
+The frontend code is located in another repository: https://github.com/AxelexA1/phonebook_frontend
  
 The application can be accessed through the following url:
 https://desolate-anchorage-58874.herokuapp.com/
